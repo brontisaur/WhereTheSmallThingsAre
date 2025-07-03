@@ -22,6 +22,18 @@ Will they be able to save the place where the small things are?
 
 Adrienne is a heavily autistic-coded character.
 
+### Sir Mouse (Supporting Character)
+
+A gruff and brusque mousefolk Paladin.
+
+### Alfred Worthpenny (Supporting Character)
+
+A good-hearted, slow, and oddly loyal catfolk scorcerer who is continually thinking about food.
+
+### Angelo Redsmith (Supporting Character)
+
+A laid-back but difficult to read human monk/fighter. 
+
 ## Main Plot Thread
 
 The main plot thread is a parallel story. Adrienne's main plot thread directly informs the Small Things' plot and vice versa. Technically, most of Adrienne's plot takes place _within_ the small things plot, but because of story reasons the reader (or, well, Adrienne) does not have access to out-of-small-things dependencies explicitly. For this reason, it is useful to outline these parallel plots separately.
@@ -37,7 +49,15 @@ Adrienne gets a meltdown, and very violently begins self-harming and throwing it
 
 [Point of Adrienne Divergence]
 
+Adrienne manages to smash a whole bunch of miniatures and the shelf during their meltdown. At this point they direct the violence to themselves, and overdose on impulse. 
 
+When what they did begins to sink in, they get an actual panic attack instead of a meltdown. They grasp the mouse paladin in their hands. It grounds them enough to try and dial a classmate. The phone rings out (it is 3:00 in the morning). They lose consciousness as the classmate tries to phone them back. 
+
+Their cat, a tuxedo dumbass, filters through the window from his late-night escapades. He curls up next to Adrienne as they lie unconscious on the floor.
+
+The classmate, knowing that Adrienne does not randomly phone people, decides to come check out what is going on. When he "breaks in" to the unlocked hostel room, and finds Adrienne on the floor, he immediately calls for help and Adrienne is taken to the hospital.
+
+Adrienne is on life-support as the overdose is worked out of his system. He is on the edge of life and death for a time that will be medically accurate and not relevant to the details of the reader.
 
 ### The Small Things' Plot
 
