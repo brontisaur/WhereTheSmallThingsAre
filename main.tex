@@ -1,0 +1,30 @@
+\documentclass[10pt,openany]{book}      % paper size is in preamble.sty
+
+%\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{pdfpages}
+
+%%%%%%%%%% BOOK INFORMATION %%%%%%%%%%
+\newcommand{\authorname}{Penwing}
+\newcommand{\booktitle}{Where The Small Things Are}
+%\newcommand{\subtitle}{}
+\newcommand{\publisher}{}
+%\newcommand{\editionyear}{2025}
+%\newcommand{\isbn}{978-3-16-148410-0}   % replace this with your own ISBN
+\title{\booktitle}
+\author{\authorname}
+
+\usepackage{misc/options}
+
+\begin{document}
+\frontmatter
+\input{frontmatter/titlepage}
+\input{frontmatter/tocpage}
+
+
+\mainmatter
+\pagestyle{fancy}
+
+\input{content/chapter1.tex}
+
+\end{document}
