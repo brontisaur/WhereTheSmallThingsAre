@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.20)  16 JUL 2025 23:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.4.20)  17 JUL 2025 00:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -471,6 +471,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
 ) [4] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -486,7 +506,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,12n,79p,1058b,202s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/cm-super/sfcc2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfcc2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.pfb>
-Output written on main.pdf (6 pages, 101849 bytes).
+Output written on main.pdf (6 pages, 102010 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
