@@ -1,8 +1,8 @@
-PWD /home/autistic_dragon/Documents/Writing/WhereTheSmallThingsAre
+PWD /home/autistic_dragon/Documents/Writing/HoneyFeed_Ver2_2025/WhereTheSmallThingsAre
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/autistic_dragon/Documents/Writing/WhereTheSmallThingsAre/main.tex
+INPUT /home/autistic_dragon/Documents/Writing/HoneyFeed_Ver2_2025/WhereTheSmallThingsAre/main.tex
 OUTPUT main.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/book.cls
